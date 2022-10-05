@@ -4,10 +4,12 @@
  
  
 <h2 align="left">You can find me on:</h2>
+
  [Facebook](https://www.facebook.com/100001835125763) | 
  [Instagram](https://www.instagram.com/kondzio_gym_freak/) | 
  [LinkedIn](https://www.linkedin.com/in/konrad-wcis%C5%82o-461600252/) | 
- [Twitter]() | [Website]() | 
+ [Twitter]() | 
+ [Website]() | 
  [Gmail]() `konrad.wcislo95@gmail.com`
 
   
