@@ -1,5 +1,8 @@
 ## Hi there, I'm Konrad 👋 💻
  
+ 
+ 
+ 
 <h2 align="left">You can find me on:</h2>
  [Facebook](https://www.facebook.com/100001835125763) | 
  [Instagram](https://www.instagram.com/kondzio_gym_freak/) | 
@@ -11,7 +14,7 @@
 
 
 ## Languages and Tools:
-<div align="center">
+<div align="center" display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
