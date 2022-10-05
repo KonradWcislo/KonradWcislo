@@ -1,10 +1,6 @@
 ## Hi there, I'm Konrad 👋 💻
-
-## You can find me on:
-<div align="center">
-  
-  ###
-<h2 align="left">💬 Social media: </h2>
+ 
+## <h2 align="left">You can find me on:</h2>
 
 [Facebook](https://www.facebook.com/) | [Instagram](https://www.instagram.com/kondzio_gym_freak/) | [LinkedIn]() | [Twitter]() | [Website]() | [Gmail]() `konrad.wcislo95@gmail.com`
   
