@@ -1,8 +1,10 @@
 ## Hi there, I'm Konrad 👋 💻
 
 ## You can find me on:
-<img height="32" width="32" color="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" href="instagram.com"/>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+<div align="center">
+  <img height="32" width="32" color="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" href="instagram.com"/>
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
+</div>
 
 ## Languages and Tools:
 <div align="center">
