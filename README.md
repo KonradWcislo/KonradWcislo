@@ -1,4 +1,4 @@
-## Hi there, I'm Konrad 👋 💻
+### Hi there, I'm Konrad 👋 💻
 
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg" />
