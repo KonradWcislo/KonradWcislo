@@ -5,10 +5,10 @@
  
 ### Connect with me:
 
- [[Facebook]](https://www.facebook.com/100001835125763) 
- [Instagram](https://www.instagram.com/kondzio_gym_freak/) 
- [LinkedIn](https://www.linkedin.com/in/konrad-wcis%C5%82o-461600252/) 
- [Twitter](https://twitter.com/konrad_wcislo) 
+ |[Facebook](https://www.facebook.com/100001835125763) 
+ |[Instagram](https://www.instagram.com/kondzio_gym_freak/) 
+ |[LinkedIn](https://www.linkedin.com/in/konrad-wcis%C5%82o-461600252/) 
+ |[Twitter](https://twitter.com/konrad_wcislo) 
  
 
 
