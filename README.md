@@ -2,10 +2,10 @@
  
 ## <h2 align="left">You can find me on:</h2>
 
-[Facebook](https://www.facebook.com/) | [Instagram](https://www.instagram.com/kondzio_gym_freak/) | [LinkedIn]() | [Twitter]() | [Website]() | [Gmail]() `konrad.wcislo95@gmail.com`
+[<img height="32" width="32" color="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" href="instagram.com"/>](https://www.facebook.com/) | [Instagram](https://www.instagram.com/kondzio_gym_freak/) | [LinkedIn]() | [Twitter]() | [Website]() | [Gmail]() `konrad.wcislo95@gmail.com`
   
   
-  <img height="32" width="32" color="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" href="instagram.com"/>
+ 
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
 </div>
 
