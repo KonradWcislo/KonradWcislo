@@ -12,7 +12,7 @@
  
 
 
-### [link to my portfolio](https://konrad-w-portfolio.netlify.app/)
+### [Link to my portfolio](https://konrad-w-portfolio.netlify.app/)
 
 
 ## Languages and Tools:
